@@ -21,7 +21,7 @@ const App = (props) => {
           <Route exact path="/directors" component={Directors} />
           <Route exact path="/actors" component={Actors} />
         </div>
-      </React.Fragment>   
+      </React.Fragment>
     </Router>
   );
 };
